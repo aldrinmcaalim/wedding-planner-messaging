@@ -4,4 +4,4 @@ automatic_scaling:
   min_instances: 1
   max_instances: 2
 
-service_account: 
+service_account: wedding-datastore-computer@wedding-planner-project-caalim.iam.gserviceaccount.com
